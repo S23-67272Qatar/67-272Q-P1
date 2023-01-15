@@ -26,7 +26,7 @@ If you have questions regarding the turn-in of this project or problems download
 
 [Case Narrative for the Cafe23 Management System](https://github.com/S23-67272Qatar/67-272Q-P1/blob/main/important_documents/cafe23_narrative.pdf)
 
-[Entity-Relation Model for the Cafe23 Management System](https://github.com/S23-67272Qatar/67-272Q-P1/blob/main/important_documents/cafe23_erd_full.pdff)
+[Entity-Relation Model for the Cafe23 Management System](https://github.com/S23-67272Qatar/67-272Q-P1/blob/main/important_documents/cafe23_erd_full.pdf)
 
 [High-Level Use Case Template](https://github.com/S23-67272Qatar/67-272Q-P1/blob/main/important_documents/HL_use_cases_template.doc)
 
