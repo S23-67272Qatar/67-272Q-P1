@@ -1,10 +1,12 @@
 Phase 1: Use Cases
 -
 
-<center><img src='cafe23.jpeg' ></center>
+<p align="center">
+<img src='cafe23.jpeg' >
+</p>
 
 
-**Cafe23** is the brainchild of Alex and Mark and currently consists of seven stores that sell premium hot beverages and baked goods in the Greater Pittsburgh area as well as one in Morgantown, WV and two in Youngstown, OH. (Of course, Alex and Mark definitely want to expand the number of stores in their franchise as circumstances allow.). These entrepreneurs know that a key to successfully managing these stores will be their ability to track key data for each store and help manage employees and payrolls for the cafe. They want a web-based application to help them in this regard and have recruited you to build this application due to your remarkable skills and low rates (i.e., pro bono). They provide you with the application specifications.
+**Cafe23** is the brainchild of Alex and Mark and currently consists of seven stores that sell premium hot beverages and baked goods in the Greater Pittsburgh area as well as one in Morgantown, WV and two in Youngstown, OH. (Of course, Alex and Mark want to expand the number of stores in their franchise as circumstances allow.). These entrepreneurs know that a key to successfully managing these stores will be their ability to track key data for each store and help manage employees and payrolls for the cafe. They want a web-based application to help them in this regard and have recruited you to build this application due to your remarkable skills and low rates (i.e., pro bono). They provide you with the application specifications.
 
 To help you in this endeavor, you are provided with several items that you will find in this repository (links to them are provided at the bottom of this page). The first is a narrative describing important facts about Cafe23 and what is needed from this online application. The remaining files are templates for documents that you will need in this phase and some additional details.
 
