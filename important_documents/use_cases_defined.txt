@@ -1,0 +1,24 @@
+	
+DEFINITION - A use case is a methodology used in system analysis to identify, clarify, 
+and organize system requirements. The use case is made up of a set of possible sequences 
+of interactions between systems and users in a particular environment and related to a 
+particular goal. It consists of a group of elements (for example, classes and interfaces) 
+that can be used together in a way that will have an effect larger than the sum of the 
+separate elements combined. The use case should contain all system activities that have 
+significance to the users. A use case can be thought of as a collection of possible 
+scenarios related to a particular goal, indeed, the use case and goal are sometimes 
+considered to be synonymous.
+
+A use case (or set of use cases) has these characteristics:
+
+    * Organizes functional requirements
+
+    * Models the goals of system/actor (user) interactions
+
+    * Records paths (called scenarios) from trigger events to goals
+
+    * Describes one main flow of events (also called a basic course of action), 
+	    and possibly other ones, called exceptional flows of events 
+	    (also called alternate courses of action)
+	
+    * Is multi-level, so one use case can use the functionality of another.
