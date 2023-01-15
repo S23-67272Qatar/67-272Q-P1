@@ -1,5 +1,5 @@
-Phase 1: Use Cases
--
+# Phase 1: Cafe23 Use Cases
+
 
 <p align="center">
 <img src='cafe23.jpeg' >
@@ -10,11 +10,13 @@ Phase 1: Use Cases
 
 To help you in this endeavor, you are provided with several items that you will find in this repository (links to them are provided at the bottom of this page). The first is a narrative describing important facts about Cafe23 and what is needed from this online application. The remaining files are templates for documents that you will need in this phase and some additional details.
 
-In this phase, we will focus on creating and documenting the set of uses cases that the system must implement to be considered fully working. Students will use the use case template provided below to structure their documents. All the actors should be indicated along with their complexity levels. 
+In this phase, we will focus on creating and documenting the set of uses cases that the system must implement to be considered fully working. 
+
+Students will use the use case template provided below to structure their documents. All the actors should be indicated along with their complexity levels. 
 
 This phase will constitute **3 percent** of your final course grade.
 
-Student solutions to this phase are to be uploaded to canvas in a zip file named as follows: `andrewID_phase1.zip` by **11:59PM on January 26th, 2023**. 
+Student solutions to this phase are to be uploaded to canvas in a zip file named as follows: `andrewID_phase1.zip` by **11:59PM on January 26th, 2023**.
 
 **Absolutely no late submissions will be accepted**.
 
@@ -22,14 +24,10 @@ If you have questions regarding the turn-in of this project or problems download
 
 ##### Additional Information and Supporting Materials:
 
-[Case Narrative for the Baking Outlet](https://github.com/S22-67-272Q/67-272Q-P1/blob/main/baking_outlet_narrative.pdf)
+[Case Narrative for the Cafe23 Management System](https://github.com/S23-67272Qatar/67-272Q-P1/blob/main/important_documents/cafe23_narrative.pdf)
 
-[Entity-Relation Model for the Baking Outlet](https://github.com/S22-67-272Q/67-272Q-P1/blob/main/gpbo_erd.pdf)
+[Entity-Relation Model for the Cafe23 Management System](https://github.com/S23-67272Qatar/67-272Q-P1/blob/main/important_documents/cafe23_erd_full.pdff)
 
-[High-Level Use Case Template](https://github.com/S22-67-272Q/67-272Q-P1/blob/main/HL_use_cases_template.doc)
+[High-Level Use Case Template](https://github.com/S23-67272Qatar/67-272Q-P1/blob/main/important_documents/HL_use_cases_template.doc)
 
-[Use Cases Defined (from class)](https://github.com/S22-67-272Q/67-272Q-P1/blob/main/use_cases_defined.txt)
-
-[Additional details about sales tax in the US](https://github.com/S22-67-272Q/67-272Q-P1/tree/main/additional_details)
-
-
+[Use Cases Defined (from class)](https://github.com/S23-67272Qatar/67-272Q-P1/blob/main/important_documents/use_cases_defined.txt)
