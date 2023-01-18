@@ -22,6 +22,17 @@ Student solutions to this phase are to be uploaded to canvas in a zip file named
 
 If you have questions regarding the turn-in of this project or problems downloading any of the materials below, please post them on Piazza or ask someone well in advance of the turn-in date. Waiting until the day before it is due to get help is unwise -- you risk not getting a timely response that close to the deadline and will not be given an extension because of such an error.
 
+##### Deliverables and submission instructions
+
+Here are the deliverables for this phase1 of the project
+
+1. Actors list [includes actor name, level and description]
+
+2. A level , B level and C level uses cases [ In the template we already provided a sample A level use cases, use the same template for writing the B level and C level use cases]
+
+3. Add both the documents above in a zipped folder named as '<your_andrewid>.zip' and upload this to canvas.
+
+
 ##### Additional Information and Supporting Materials:
 
 [Case Narrative for the Cafe23 Management System](https://github.com/S23-67272Qatar/67-272Q-P1/blob/main/important_documents/cafe23_narrative.pdf)
